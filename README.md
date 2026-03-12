@@ -26,7 +26,7 @@ marp slides.md --html
 
 ## License
 
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (Attribution-NonCommercial 4.0 International). See [LICENSE](LICENSE) for the full legal code.
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (Attribution-NonCommercial 4.0 International).
 
 ## Author
 
