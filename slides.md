@@ -76,18 +76,11 @@ Jan Torsten Valder, KISK, Březen 2026
 
 <!--
 SPEAKER NOTES:
-- Včera jsem byl kvůli ptákovině na jednom ministerstvu – mohl to být email
-- Vtipkoval jsem s personálem na recepci, s ochrankou když mě vedli do kanceláře, pochválil jsem asistence kafe, podrbali jsme, vyřídil jsem co jsem potřeboval, cestou zpátky zase vtípky + zásek a drbání na recepci.
-- Výsledek? Sedm+ lidí mělo fajn konec dne, já měl měl co potřeboval, o kamarádce za kterou jsem šel budou říkat, že za ní choděj super týpci.
-- Večer jsem řešil situaci, kdy se někdo rozhodl, že bude kretén. Zkaženej večer, nic se nikam neposunulo, nic se nevyřešilo.
-_ Jestli něco preferuju, tak je to zážitek z ministerstva - drivovat pozitivní experience pro všechny zůčastněné
-- Doufám že si dneska odnesete, že to je fajn přístup
+- xF leadership = jak posouvat věci kupředu a nespálit vztahy okolo
+- Kvalita spolupráce zásadně ovlivňuje výsledek i atmosféru
+- Dnes si ukážeme principy, které fungují bez ohledu na roli nebo senioritu
 
-Příběh: Včera jsem během jednoho dne zažil dva typy spolupráce. 
-V jednom případě lehkost, humor, respekt a všechno šlo dopředu. 
-V druhém napětí, ego a nulový posun. 
-A přesně o tom dneska je xF leadership: jak dělat věci tak, aby se pohnuly a zároveň nespálily lidi okolo.
-
+Příběh: Dva typy spolupráce v jednom dni — v jednom případě lehkost, respekt a posun vpřed, v druhém napětí, ego a nulový výsledek. Přesně o tomhle rozdílu dnes mluvíme.
 -->
 
 ---
@@ -96,7 +89,7 @@ A přesně o tom dneska je xF leadership: jak dělat věci tak, aby se pohnuly a
 
 ```
 2000    Auto, Media, Ticketing, Fintech – Agency designer
-2010+   Moneta, KB, ČS – Korporátní lead
+2010+   Moneta, KB, ČS – Korporátní lead
 2022+   Livesport - Globální manager
 Teď     Orbiso - Product Navigator
         Sabbatical, Consulting and Mentoring
@@ -104,12 +97,9 @@ Teď     Orbiso - Product Navigator
 
 <!--
 SPEAKER NOTES:
-- Ahoj, jsem Honza
-- Mám za sebou 25 let v různých rolích
-- To o čem dneska mluvíme – XF leadership – není o konkrétní roli nebo zadání (není např. jen pro manažery)
-- V jakékli – ať už IC, lead nebo manažer – roli můžete jej můžete – a potřebujete – úspěšně uplatňovat a doručovat věci nad rámec toho co vy sami umíte nebo dokážete – spojením se s jinejma lidma
-- ...kteří nejsou vaši direct reports
-
+- 25 let zkušeností napříč agenturami, korporáty i produktovými firmami
+- xF leadership není vázaný na konkrétní roli — uplatní ho IC, lead i manažer
+- Jde o schopnost doručovat výsledky spojením s lidmi, kteří vám nereportují
 -->
 
 ---
@@ -128,10 +118,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Zní to děsivě, ale je to zkratka pro tři reality:
-- Vztahy jsou kapitál
-- Neformální přístup je často účinnější
-- Framing a diplomacie jsou někdy účinnější než čistá pravda
+- Tři provokativní zkratky pro tři reálné principy
+- Vztahy jsou kapitál — investujte do nich předem
+- Neformální přístup je často účinnější než formální procesy
+- Framing a diplomacie jsou někdy účinnější než čistá fakta
 -->
 
 ---
@@ -142,7 +132,8 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Ještě než divneme do těch třech topics, pojďme kouknout na to, kde tu je zakopanej pes.
+- Než se pustíme do tří hlavních témat, podívejme se na výchozí situaci
+- Pochopení kontextu je předpoklad pro efektivní xF spolupráci
 -->
 
 ---
@@ -156,11 +147,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- 
-- Jsi v situaci kdy máš rozhýbat lidi, kteří mají jiné cíle, jiný jazyk, jiné KPI a často žádný důvod poslouchat.
-- Design a výzkum se pohybují na hraně systému: bez přímé moci, bez rozpočtu, bez jasného mandátu.
-- A přesto musí iniciovat, koordinovat a občas zachraňovat projekty.
-- Odpovědnost (vnější; klidně bez zdrojů jak to mají CEO radí) vs. zodpovědnost (vnitřní)
+- Rozhýbáváte lidi s jinými cíli, jazykem a KPI — a bez důvodu vás poslouchat
+- Design a výzkum operují bez přímé moci, rozpočtu a jasného mandátu
+- Přesto se od vás očekává iniciativa, koordinace a někdy i záchrana projektu
+- Rozlišujte odpovědnost (vnější, přidělenou) a zodpovědnost (vnitřní, převzatou)
 -->
 
 ---
@@ -174,9 +164,9 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Každý chrání svůj backlog, budget, reputaci a tempo – má spoustu svých vlastních problémů.
-- To, co je dobré pro tebe nebo firmu, nemusí být dobré pro konkrétní tým (tipicky může vést k oslabení jejich pozice)
-- Hlavní tenze celé disciplíny je jednoduchá: vedeš lidi, kteří ti nereportují.
+- Každý chrání svůj backlog, rozpočet, reputaci a tempo
+- Co je dobré pro firmu, nemusí být dobré pro konkrétní tým — může oslabit jejich pozici
+- Hlavní tenze: vedete lidi, kteří vám nereportují
 -->
 
 ---
@@ -190,14 +180,12 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- V klasickém vertikálním managementu/leadership máš formální autoritu a teoreticky můžeš cokoli.
-- Tohle je jiný sport – influence management.
-- Tady vyjednáváš – eskalace je drahá a většinou neefektivní (pro mě poslední/žádná volba).
-- Mandát si průběžně buduješ kredibilitou.
-- A jak jsem zmiňoval na začátku, nedělají to jen manažeři – kdokoli, kdo propojuje více týmů.
-- Klidně i junior nebo stážista.
+- Ve vertikálním managementu máte formální autoritu; xF spolupráce je influence management
+- Eskalace je drahá a většinou neefektivní — měla by být až poslední volba
+- Mandát si budujete průběžně vlastní kredibilitou
+- Nedělají to jen manažeři — kdokoli, kdo propojuje více týmů, včetně juniorů
 
-Příběh: launch velkého projektu, schůzka desítek lidí napříč korporátem, dorazil velmi seniorní manažer. Neuvědomil si, že nejsme jeho podřízení, začal řvát, že zpoždění je neakceptovatelné. Všichni koukali jak puk. On po pěti minutách řvaní odešel, a od té doby si o něm celá firma myslela (oprávněně), že je úplný kretén.
+Příběh: Launch velkého projektu, schůzka desítek lidí napříč korporátem. Dorazil velmi seniorní manažer, neuvědomil si, že přítomní nejsou jeho podřízení, a začal křičet kvůli zpoždění. Po pěti minutách odešel. Od té doby si o něm celá firma oprávněně myslela, že nezvládá základní spolupráci. Formální autorita bez kontextu a respektu je kontraproduktivní.
 -->
 
 ---
@@ -208,7 +196,8 @@ Příběh: launch velkého projektu, schůzka desítek lidí napříč korporá
 
 <!--
 SPEAKER NOTES:
-- Vztahy jsou kapitál. Než budete potřebovat pomoc, musíte vědět, kde se rozhoduje, a investovat do lidí kolem.
+- Vztahy jsou kapitál — budujte je dřív, než je budete potřebovat
+- Musíte vědět, kde se v organizaci reálně rozhoduje
 -->
 
 ---
@@ -219,13 +208,11 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- v bance si nás první týden zavolal manager benefitního programu, uspořádal nám zábavnou soutěž, a zařídil, že každý z nás vyhrál nějakou drobnost – lahev na vodu apod.
-- tu lahev na vodu jsem pak měl pár let na stole
-- co myslíte, že se stalo, když za mnou dotyčný manažer přišel, a něco drobného potřeboval?
-- tuhle strategii jsem zcela adaptoval, a v dobrém a rád v ní pokračuju 
-- vývojářstvo z banky jsem dlouho zásoboval Nerf pistolema
-- lidi na payments mají rády nugát a rafaelo
-- lidi ze startupu se můžou utlouct po višňový bublanině s mascarpone (teď znova dorazily do Lidlu mražený višně)
+- Drobné gesto na začátku vztahu vytváří reciprocitu a dobrou vůli
+- Kdo investuje do ostatních bez přímého důvodu, buduje si kredit na později
+- Může to být cokoli — sdílení, pomoc, drobná pozornost
+
+Příběh: V bance nás první týden pozval manažer benefitního programu na soutěž, kde každý vyhrál drobnost — třeba láhev na vodu. Tu láhev jsem pak měl na stole roky. Když za mnou dotyčný přišel a něco potřeboval, pomohl jsem bez váhání. Princip reciprocity v praxi.
 -->
 
 ---
@@ -239,11 +226,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Každá organizace má dvě struktury: formální a neformální 
-- Zmínil jsem holky z payments – pokud řídíte budget, je to superdůležité oddělení. stejně tak procurement. stejně tak HR. tam chcete mít kamarády a kamarádky
-- I když nevedete velký tým, hodí se vědět kdo co řeší, jaké průsery se na vás chystají a ovlivní vaši roadmapu
-- Existuje věc jako neformální orgchart (často se o tom mluví jako o tom kdo s kým spí, kdo koho nenávídí, kdo všechno zablokuje, kdo je úplně neschopný) - to je důležitý
-- Co je klíčový je vybudovat si uvnitř organizace vlastní orgchart; a co nejširší
+- Každá organizace má formální i neformální strukturu — reálný vliv často nesedí s orgchartem
+- Oddělení jako finance, procurement nebo HR mohou zásadně ovlivnit vaše projekty
+- Zjistěte, kdo co řeší, kdo blokuje a kdo má skutečný vliv
+- Vybudujte si vlastní síť kontaktů napříč organizací — co nejširší
 -->
 
 ---
@@ -262,13 +248,11 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Super – orgchart máme, kámoše napříč firmou, ale na stůl přistál konkrétní projekt – ale tam jsou úplně jiný lidi
-- Většinu z nich můžeme definovat jako stakeholdery, většinou unikátní per projekt / iniciativu
-- Můžete si je oklasifikovat podle toho, jaký mají vliv a zájem.
-- Nízký vliv plus vysoký zájem může být budoucí ambasador - často tvůj orchart – můžou ti pomoct protlačit sidequesty
-- Vysoký vliv plus vysoký zájem je partner – to jsou miláčci
-- Vysoký vliv plus nízký zájem je potenciální blokátor – to je super nebezpečné, můžet ti zabít projekt.
-- Velmi často mají konkurenční nápad, projekt, potřebujou tvoje lidi a zdroje
+- Stakeholdeři jsou většinou unikátní per projekt — jiní lidé než váš běžný orgchart
+- Klasifikujte je podle vlivu a zájmu
+- Nízký vliv + vysoký zájem = potenciální ambasadoři, pomohou protlačit vedlejší úkoly
+- Vysoký vliv + vysoký zájem = partneři, ideální spolupracovníci
+- Vysoký vliv + nízký zájem = potenciální blokátoři — mohou mít konkurenční projekt nebo potřebovat vaše zdroje
 -->
 
 ---
@@ -282,11 +266,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Cross-functional vliv stojí na tom, že už vztah máš – když ho potřebuješ, je pozdě ho budovat.
-- Nezapomínejte:
-- Důvěra je budovaná průběžně a ztracená rychle.
-- Reciprocita funguje napříč kulturami i senioritou.
-- A přítomnost znamená být vidět i mimo formální struktury.
+- xF vliv stojí na tom, že vztah už máte — když ho potřebujete, je pozdě ho budovat
+- Důvěra se buduje průběžně a ztrácí rychle
+- Reciprocita funguje napříč kulturami i senioritou
+- Přítomnost znamená být vidět i mimo formální struktury
 -->
 
 ---
@@ -301,15 +284,11 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Reciprocita je prehistorická a funguje bez ohledu na kulturu, senioritu nebo titul.
-- Sdílej zajímavý článek.
-- Zmiň jejich práci na meetingu, kde nejsou.
-- Poděkuj veřejně, konkrétně a brzy.
-- Cena skoro nulová. Návratnost asymetrická.
-- Cíleně a veřejně chval lidi z okolních týmů, kteří byli helpful.
-- Na all-hands, ve Slacku, v mailu, kde je i jejich manažer!!!
-- Buď konkrétní: co udělali a jaký to mělo dopad.
-- Efekt je silný: jejich manažer ví, že jsou cenní, oni ví, že si toho vážíš, a ostatní vidí, že spolupráce s tebou se vyplácí.
+- Sdílejte článek, zmiňte práci kolegy na meetingu kde není, poděkujte veřejně a konkrétně
+- Náklady téměř nulové, návratnost nepřiměřeně vysoká
+- Veřejně oceňujte lidi z okolních týmů — na all-hands, ve Slacku, v mailu kde je i jejich manažer
+- Buďte konkrétní: co udělali a jaký to mělo dopad
+- Efekt: jejich manažer ví, že jsou cenní; oni ví, že si toho vážíte; ostatní vidí, že spolupráce s vámi se vyplácí
 -->
 
 ---
@@ -320,7 +299,8 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Neformální přístup je často účinnější než formální. Ale nejdřív musíš pochopit, že lidi nefungují tak, jak bys čekal.
+- Neformální přístup je často účinnější než formální procesy
+- Předpoklad: pochopte, že lidé nefungují čistě racionálně
 -->
 
 ---
@@ -334,12 +314,9 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Lidi nereagují primárně na logiku.
-- Reagují na vlastní zájem, důvěru a emoce.
-- Resistance k tvému nápadu málokdy znamená špatný nápad.
-- Většinou znamená risk, workload nebo strach ze ztráty kontroly.
-- Tvůj job není vyhrát argument.
-- Tvůj job je zjistit, co oni potřebují, a najít překryv.
+- Lidé nereagují primárně na logiku — reagují na vlastní zájem, důvěru a emoce
+- Odpor k vašemu nápadu většinou znamená vnímané riziko, přidanou práci nebo strach ze ztráty kontroly
+- Vaším úkolem není vyhrát argument, ale najít překryv mezi tím, co potřebujete vy a co oni
 -->
 
 ---
@@ -353,14 +330,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Liší se vztah k času, hierarchii, přímočarosti i autoritě.
-- A neplatí to jen mezi zeměmi, ale i uvnitř firmy.
-- Engineering chce přesnost a explicitní zadání.
-- Design snese iteraci a ambiguitu.
-- Sales žije v urgenci a vztazích.
-- Obhajoba designu se mění podle kontextu: v B2C uživatel produkt přímo zažije, v B2B často obhajuješ rozhodnutí lidem, kteří produkt nikdy nepoužijí.
-- Tam je jazyk ROI, risku a času implementace.
-- Když tvůj způsob komunikace nefunguje, zkus jiný. Není to kapitulace, je to inteligence.
+- Různé profese mají různý vztah k času, hierarchii a přímočarosti — i uvnitř jedné firmy
+- Engineering chce přesnost a explicitní zadání; design snese iteraci; sales žije v urgenci
+- V B2C obhajujete uživatelským zážitkem, v B2B jazykem ROI, rizika a implementace
+- Když váš způsob komunikace nefunguje, zkuste jiný — to není kapitulace, to je inteligence
 -->
 
 ---
@@ -371,13 +344,11 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Když jsem vedl tým v bance, kouřilo se na terase
-– Byl to naprosto standardní prostor pro to zajít za někým a něco rychle domluvit (a často se to stihlo už ve výtahu na terasu)
-- Byly to krátké, minutové iterace, 1:1 nebo "hej pocem my tady s Kubou něco řešíme"
-- Neskutečně efektivní – pak jen pošleš mailem výsledek FYSA a jednáš
-- Jak efektivní tohle je mi došlo za covidu – najednou jsem měl kalendář zaflákaný schůzkama 9-5, který by jinak byly právě ten neformální minutovej talk na terase
-- Díky bohu stále spousta lidí kouří nebo vapuje. Dost často senior management, kteří jsou jinak nedostupní.
-- Hledejte si tyhle momenty a využívejte je – výtah. terasa. kafe. oběd. Velmi často je pět minut s správným stakeholderem víc, než pět schůzek.
+- Hledejte neformální momenty pro rychlé vyjasnění a domluvu — výtah, kafe, oběd
+- Krátké minutové interakce mimo meeting room jsou často efektivnější než hodinové schůzky
+- Pět minut se správným stakeholderem může mít větší dopad než pět formálních schůzek
+
+Příběh: V bance se hodně řešilo na kuřácké terase — krátké iterace, rychlé dohody, pak jen e-mail s výsledkem. Jak moc to bylo efektivní, se ukázalo za covidu — najednou kalendář zaplněný schůzkami 9–5, které by jinak byly minutový rozhovor na chodbě.
 -->
 
 ---
@@ -391,13 +362,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- To, že s tebou nespolupracují, často neznamená odpor.
-- Jen nejsi na jejich radaru.
-- Zjisti, co je pro ně urgentní.
-- Najdi překryv s tím, co potřebuješ ty
-- Já  MILUJU synergie
-- Přijď s návrhem, který řeší jejich problém a mimochodem i tvůj.
-- Vztah předem znamená možnost hijacku. Bez vztahu jsi šum.
+- Nespolupráce většinou není odpor — prostě nejste na jejich radaru
+- Zjistěte, co je pro ně urgentní, a najděte překryv s vaší potřebou
+- Přijďte s návrhem, který řeší jejich problém a zároveň i váš
+- Bez existujícího vztahu jste jen šum na pozadí
 -->
 
 ---
@@ -408,7 +376,8 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Tak a poslední kapitola – už máte kámoše v orgu, máte jejich pozornost, našli jste překryv, a co teď
+- Máte kontakty, pozornost i překryv — teď jde o to, jak sdělení doručit
+- Klíčový je překlad do jazyka příjemce
 -->
 
 ---
@@ -419,9 +388,9 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Framing a diplomacie jsou někdy účinnější než čistá pravda
-- Tohle není o manipulaci, ale o překladu a strategii.
-- Message delivered – ať je to pitch jak řešit problém, prosba o zdroje, doporučení – musí být v jazyce příjemce
+- Framing a diplomacie jsou často účinnější než přímé sdělení faktů
+- Nejde o manipulaci, ale o překlad a strategickou komunikaci
+- Každá zpráva — pitch, prosba o zdroje, doporučení — musí být v jazyce příjemce
 -->
 
 ---
@@ -435,15 +404,12 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Vizuál zaframuje realitu
-- První silný vizuál, který ukážeš, často definuje, jak lidé o problému přemýšlí dál.
-- To je i nebezpečný – pak se lidi velmi složitě přeučují
-- Naučte se je – vrstvy. Jednoduché diagramy. Vztahy. Všechno po třech!
-- Pojmenovávej věci jazykem, který mají rádi.
-- Když už něco mají v hlavě, využij to a stav na tom – to máš zadarmo podporu.
-- Pokud je zmateš, prohraješ.
+- První vizuál často definuje, jak lidé o problému přemýšlí dál — silný nástroj, ale i riziko
+- Pracujte s jednoduchými diagramy: vrstvy, vztahy, trojice
+- Pojmenovávejte věci jazykem, který publikum zná; stavte na tom, co už mají v hlavě
+- Pokud je zmatete, ztrácíte podporu
 
-Příklad: pokud někdo vymyslel X, a ty připravíš prezentaci kde to X není, protože to vlastně přišlo lepší to pojmenovat Y, jak asi ten člověk bude reagovat?
+Příklad: Pokud někdo vymyslel koncept X a vy ho v prezentaci přejmenujete na Y, autor X bude reagovat negativně — i když Y je objektivně lepší název. Stavte na existujících mentálních modelech.
 -->
 
 ---
@@ -457,14 +423,12 @@ Příklad: pokud někdo vymyslel X, a ty připravíš prezentaci kde to X není,
 
 <!--
 SPEAKER NOTES:
-- Tvoje agenda je komplexní. Jejich čas je nulový.
-- Přeformátuj to do příběhu, přirovnání, něčeho co znají. Nemusíš manipulovat. Musíš přeložit.
-- What's in it for me musí být jasné velmi rychle – do 30 sekund.
-- Kdo zjednodušuje, ten vede. Clarity is a form of authority.
-- Přijď s variantami, ne s jedním řešením.
-- Pojmenuj jejich riziko dřív, než oni, a nabídni, jak ho snížit.
+- Vaše agenda může být komplexní, ale čas ostatních je omezený
+- Přeformátujte sdělení do příběhu nebo přirovnání — nemanipulujte, překládejte
+- "What's in it for me" musí být jasné do 30 sekund
+- Přicházejte s variantami, ne s jedním řešením; pojmenujte riziko dřív než protistrana
 
-Příběh: taktika násobných mucholapek – schováš do prezentace pár věcí které jsou na první pohled kontroverzní/konfliktní, ale to že se jich vzdáš, pro tebe nic neznamená
+Příběh: Taktika násobných mucholapek — do prezentace záměrně přidáte pár kontroverzních bodů, jejichž vzdání se pro vás nic neznamená. Protistrana má pocit, že vyjednala ústupky, vy máte to, co jste reálně potřebovali.
 -->
 
 ---
@@ -478,13 +442,11 @@ Příběh: taktika násobných mucholapek – schováš do prezentace pár věc
 
 <!--
 SPEAKER NOTES:
-- Prosazuj ve chvíli, kdy jde o kvalitu produktu, uživatelský dopad nebo precedens, který se bude opakovat.
-- Ustup, když je vztah cennější než konkrétní bitva nebo když druhá strana má legitimní kontext, který ty nemáš.
-- Ustoupení není prohra.
-- Je to investice do budoucí spolupráce.
+- Prosazujte se, když jde o kvalitu produktu, uživatelský dopad nebo precedens
+- Ustupte, když je vztah cennější než konkrétní bitva nebo druhá strana má legitimní kontext
+- Ústup není prohra — je to investice do budoucí spolupráce
 
-Příběh: nedávno jsem si vzpoměl na legendární kolegyni Janu, která při opravdu heated diskusi při mergeru dvou finančních institucí zařvala na callu "Takhle to tady neděláme." – diskuse se vrátila do kolejí.
-
+Příběh: Při mergeru dvou finančních institucí se rozhořela vyhrocená diskuse. Kolegyně Jana na callu řekla: "Takhle to tady neděláme." — jasná hranice, diskuse se okamžitě vrátila do konstruktivních kolejí.
 -->
 
 ---
@@ -494,16 +456,15 @@ Příběh: nedávno jsem si vzpoměl na legendární kolegyni Janu, která při 
 - vizualizuj, reframuj
 - dej časový box
 
-→ posuň se – klidně stranou, ale někam
+→ posuň se – klidně stranou, ale někam
 
 <!--
 SPEAKER NOTES:
-- Naopak se může stát, že místnost zamrzne.
-- Když nikdo nechce vzít rozhodnutí nebo inicitativu, je to moment pro facilitaci (mám rád označení emergency leadership)
-- Extrémně důležité – zakresli, co slyšíš, aby bylo vidět, kde je shoda a kde ne. 
-- Reframuj otázku: co potřebujeme rozhodnout dnes a co může počkat?
-- Dej tomu časový rámec: pojďme se shodnout na 30 dnech a pak to vyhodnotit.
-- To je leadership bez titulu v nejčistší formě.
+- Když nikdo nechce převzít rozhodnutí, je to moment pro facilitaci ("emergency leadership")
+- Zakreslete, co slyšíte — ať je vidět, kde je shoda a kde ne
+- Přeformulujte otázku: co rozhodujeme dnes a co může počkat?
+- Dejte časový rámec: shodněme se na 30 dnech a pak vyhodnotíme
+- Leadership bez titulu v nejčistší formě
 -->
 
 ---
@@ -511,33 +472,30 @@ SPEAKER NOTES:
 ## Nezapomeň se pochlubit
 
 - nástěnky fungujou i v 21 století
-- je to začarovaný kuh  
+- je to začarovaný kruh
 
 → Buď na očích
 
 <!--
 SPEAKER NOTES:
-- komunikuj stav i úspěchy
-- neustále - dolů jako pochvalu, do stran s oceněním jejich zapojení, nahoru aby se vědělo že existuješ a makáš
-- když buděš vidět, bude se vědět že seš užitečnej/á, posílí to tvoji pozici
-- a usnadní ti to další xF task
+- Komunikujte stav i úspěchy průběžně — dolů jako pochvalu, do stran s oceněním, nahoru jako viditelnost
+- Čím víc jste vidět jako užiteční, tím silnější je vaše pozice pro další xF úkoly
+- Viditelnost vytváří pozitivní spirálu — úspěch usnadňuje další spolupráci
 
-Příběh: když jsme udělali v Livesportu persony, ospamovali jsme jima celej barák, vobrovská prezentace. Výsledek? Celej barák tím rok žil, včetně majitelů. To chceš.
+Příběh: V Livesportu jsme po vytvoření person uspořádali velkou prezentaci a doslova jimi "ospamovali" celou firmu. Výsledek — celá organizace je aktivně používala víc než rok, včetně majitelů.
 -->
 
 ---
 
 <!-- _class: teaser -->
 
-# Bonus: ELI5
+# Bonus: ELI5
 
 <!--
 SPEAKER NOTES:
-- tohle je nejdůležitější věc, co vám dneska řeknu
-- s každým, opravdu každým, a hlavně s top managementem, komunikujte, jako by jim bylo pět let
-- prostě fucking kindergarten, doslova ELI5
-- je to super cheat na to, jak předat informaci do mozku zaflakanejch high priority agendou
-- je to super zpětná vazba na to co chcete komunikovat / dosáhnout - jestli to neumíte vysvětlit pětiletýmu, nevíte ani sami co chcete
+- Nejdůležitější komunikační princip: vysvětlujte co nejjednodušeji, hlavně směrem k top managementu
+- ELI5 (Explain Like I'm 5) je účinný způsob, jak předat informaci lidem zahlceným prioritami
+- Bonus: pokud něco nedokážete vysvětlit jednoduše, pravděpodobně si ještě sami nejste jistí, co chcete sdělit
 -->
 
 ---
@@ -548,8 +506,8 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Přepínáme z inspirace do akce.
-- Tady jsou konkrétní nástroje, které můžeš použít okamžitě.
+- Přechod z principů do praxe
+- Tři konkrétní nástroje, které můžete začít používat okamžitě
 -->
 
 ---
@@ -565,16 +523,10 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Teď vám udělám zmatek v písmenkách
-- RACI je nudný nicméně užitečný model
-- Spousta cross-functional konfliktů není osobních, ale strukturálních – chybí tam specifická role
-- Responsible je ten, kdo to opravdu dělá.
-- Accountable je ten, kdo ručí / je owner
-- Consulted je někdo, koho se máš zeptat předem.
-- Informed je někdo, komu to jen oznámíš.
-- u xDept tasku často chybí, nebo není jasně určený accountable – měl by to být jeden C-level člověk, ne dva nebo žádný
-(Nejčastější problém je, že A tam není. Nebo jsou tam dvě.)
-- Když zaměníš C za A, tak ti dá spoustu rad, a na dalším boardu tě utopí na lžíci vody
+- RACI je jednoduchý model pro vyjasnění odpovědností v xF spolupráci
+- Spousta xF konfliktů není osobních, ale strukturálních — chybí jasně přidělená role
+- Nejčastější problém: Accountable chybí, nebo jsou dva — měl by být jeden člověk
+- Pozor na záměnu C a A: konzultant vám dá rady, ale na boardu vás nepodpoří jako vlastník
 -->
 
 ---
@@ -589,13 +541,12 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Tohle už jsem naznačoval, pojďme pro jsitotu ještě jednou
-- Když se věc zasekne, projeď jednoduchou sekvenci.
+- Když se věc zasekne, projděte jednoduchou sekvenci:
 - Co přesně dnes potřebujeme rozhodnout?
-- Kdo je ownuje, kdo to udělá?
-- Jaké riziko brání rozhodnutí, co musíme eskalovat?
-- Na jak dlouho tohle rozhodnutí platí, než ho znovu otevřeme?
-- Neřeš všechno. Vyřeš další bezpečný krok.
+- Kdo to vlastní a kdo to udělá?
+- Jaké riziko brání rozhodnutí a co je třeba eskalovat?
+- Na jak dlouho rozhodnutí platí, než ho znovu otevřeme?
+- Neřešte všechno najednou — vyřešte další bezpečný krok
 -->
 
 ---
@@ -611,14 +562,10 @@ Jsme loajální misi, ne jen své funkci?
 ```
 <!--
 SPEAKER NOTES:
-- Pět jednoduchých otázek:
-- Víme, co je společný cíl a podle čeho poznáme úspěch?
-- Je jasné, kdo rozhoduje a kdo jen radí?
-- Mluvíme o stejném problému, nebo každý o jiném?
-- Má tým dost důvěry na otevřený nesouhlas?
-- Je mezi týmy víc loajality k funkci, nebo k misi?
-- Když na dvě z nich neumíš rychle odpovědět, problém není v produktivitě. Je v designu spolupráce.
-- Diagnostika GRPI: začni u goals, pak roles, pak process, až potom relationships. Častá chyba je, že problém v goals nebo roles se tváří jako problém v osobnosti.
+- Pět diagnostických otázek pro rychlou kontrolu kvality spolupráce
+- Pokud na dvě neumíte rychle odpovědět, problém není v produktivitě, ale v designu spolupráce
+- Model GRPI: začněte u goals, pak roles, pak process, až potom relationships
+- Častá chyba: problém v cílech nebo rolích se tváří jako problém v osobnostech
 -->
 
 ---
@@ -634,10 +581,9 @@ SPEAKER NOTES:
 
 <!--
 SPEAKER NOTES:
-- Leadership mindset shift je od "my team" k "the mission".
-- Autorita v cross-functional práci nevychází primárně z titulu.
-- Vychází z kredibility, schopnosti překládat mezi světy a z toho, že rozumíš systému.
-- Když tě ostatní chtějí následovat i bez formální moci, jsi přesně tam, kam míříme.
+- Klíčový mindset shift: od "můj tým" k "mise"
+- Autorita v xF práci nevychází z titulu, ale z kredibility a schopnosti překládat mezi světy
+- Kdo rozumí systému a dokáže propojovat, toho ostatní následují i bez formální moci
 -->
 
 ---

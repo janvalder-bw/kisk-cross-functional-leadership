@@ -4,7 +4,9 @@ Design Management & Leadership Masterclass — presentation for KISK MUNI.
 
 ## Contents
 
-- **slides.md** — Marp slide deck (Markdown + YAML front matter)
+- [**slides.md**](./slides.md) — Marp slide deck (Markdown + YAML front matter) with speaker notes
+- [**slides.pdf**](./slides.pdf) — exported PDF of the presentation
+- [**article.md**](./article.md) — standalone article on cross-functional leadership (Czech, for university students)
 
 ## Viewing & editing
 
@@ -24,10 +26,14 @@ marp slides.md --pdf
 marp slides.md --html
 ```
 
+## AI attribution
+
+The article ([`article.md`](./article.md)) and speaker notes in [`slides.md`](./slides.md) were edited with the assistance of AI (Claude Opus 4.6, Anthropic).
+
 ## License
 
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (Attribution-NonCommercial 4.0 International).
 
 ## Author
 
-Jan Valder · KISK MUNI, 2026
+Jan Torsten Valder, March 2026
