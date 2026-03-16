@@ -10,7 +10,6 @@ Thumbs.db
 *~
 
 # Marp / build
-*.pdf
 dist/
 out/
 
